@@ -1,0 +1,12 @@
+{
+    
+    "NavBar": {
+        "Home": "Inicio",
+        "Apartments": "Departamentos",
+        "Experiences": "Experiencias",
+        "Gallery": "Galeria",
+        "Booking": "Reservas",
+        "Contact": "Contacto"
+    }
+
+}

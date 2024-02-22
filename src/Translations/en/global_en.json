@@ -1,0 +1,12 @@
+{
+    
+    "NavBar": {
+        "Home": "Home",
+        "Apartments": "Apartments",
+        "Experiences": "Experiences",
+        "Gallery": "Gallery",
+        "Booking": "Booking",
+        "Contact": "Contact"
+    }
+
+}
