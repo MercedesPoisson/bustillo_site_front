@@ -26,7 +26,6 @@ const Home = () => {
           <Outlet />
         </div>
       </div>
-      <h1>inicio</h1>
     </div>
   );
 };

@@ -2,8 +2,38 @@ import React from 'react';
 
 function Inicio() {
     return(
-        <div>
+        <div className='bg-softgreen'>
             <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            <h1>Inicio</h1>
+            
         </div>
     )
 }
