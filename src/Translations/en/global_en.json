@@ -35,48 +35,75 @@
       },
       "departamentos": {
         "departamento2": {
+            "departamento": "Apartment",
         "titulo": "Lake Mascardi",
-        "habitaciones": "Number of Bedrooms: 1",
-        "capacidad": "Max Occupancy: 4",
-        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
-        "estadia": "No minimum stay"
+        "tithabitaciones": "Number of Bedrooms: ",
+        "habitaciones": "1",
+        "titcapacidad": "Max Occupancy: ",
+        "capacidad": "4",
+        "titdetalle": "Amenities ",
+        "detalle": "Amenities: Kitchen, Microwave, Private Bathroom, Towels, Bed Linens, Heating",
+        "estadia": "No minimum stay",
+        "acceso": "Ground Floor Apartment"
         
     },
     "departamento3": {
+        "departamento": "Apartment",
         "titulo": "Lake Guillelmo",
-        "habitaciones": "Number of Bedrooms: 1",
-        "capacidad": "Max Occupancy: 4",
-        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
-        "estadia": "No minimum stay"
+        "tithabitaciones": "Number of Bedrooms: ",
+        "habitaciones": "1",
+        "titcapacidad": "Max Occupancy: ",
+        "capacidad": "4",
+        "titdetalle": "Amenities ",
+        "detalle": "Kitchen, Microwave, Private Bathroom, Towels, Bed Linens, Heating",
+        "estadia": "No minimum stay",
+        "acceso": "Ground Floor Apartment"
     },
     "departamento4": {
+        "departamento": "Apartment",
         "titulo": "Lake Gutierrez",
-        "habitaciones": "Number of Bedrooms: 1",
-        "capacidad": "Max Occupancy: 4",
-        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
-        "estadia": "No minimum stay"
+        "tithabitaciones": "Number of Bedrooms: ",
+        "habitaciones": "1",
+        "titcapacidad": "Max Occupancy: ",
+        "capacidad": "4",
+        "titdetalle": "Amenities ",
+        "detalle": "Kitchen, Microwave, Private Bathroom, Towels, Bed Linens, Heating",
+        "estadia": "No minimum stay",
+        "acceso": "Ground Floor Apartment"
     },
     "departamento5": {
+        "departamento": "Apartment",
         "titulo": "Lake Moreno",
-        "habitaciones": "Number of Bedrooms: 1",
-        "capacidad": "Max Occupancy: 4",
-        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
-        "estadia": "No minimum stay"
+        "tithabitaciones": "Number of Bedrooms: ",
+        "habitaciones": "1",
+        "titcapacidad": "Max Occupancy: ",
+        "capacidad": "4",
+        "titdetalle": "Amenities ",
+        "detalle": "Kitchen, Microwave, Private Bathroom, Towels, Bed Linens, Heating",
+        "estadia": "No minimum stay",
+        "acceso": "Ground Floor Apartment"
     },
     "departamento7": {
+        "departamento": "Apartment",
         "titulo": "Lake Steffen",
-        "habitaciones": "Number of Bedrooms: 1",
-        "capacidad": "Max Occupancy: 4",
-        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
+        "tithabitaciones": "Number of Bedrooms: ",
+        "habitaciones": "1",
+        "titcapacidad": "Max Occupancy: ",
+        "capacidad": "4",
+        "titdetalle": "Amenities ",
+        "detalle": "Kitchen, Microwave, Private Bathroom, Towels, Bed Linens, Heating",
         "estadia": "No minimum stay",
         "acceso": "Access by Stairs"
         
     },
     "departamento1": {
+        "departamento": "Apartment",
         "titulo": "Lake Nahuel Nahuapi",
-        "habitaciones": "Number of Bedrooms: 3",
-        "capacidad": "Max Occupancy: 8",
-        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating", "Private Entrance", "Grill"],
+        "tithabitaciones": "Number of Bedrooms: ",
+        "habitaciones": "3",
+        "titcapacidad": "Max Occupancy: ",
+        "capacidad": "8",
+        "detalle": "Amenities: Kitchen, Microwave, Private Bathroom, Towels, Bed Linens, Heating, Private Entrance, Grill",
         "estadia": "2 nights",
         "acceso": "Access by stairs"
     }
