@@ -7,7 +7,7 @@ import {
 
 const Footer = () => {
   return (
-    <div className="bg-softgreen h-auto font-sans font-light p-2 flex flex-col items-start mt-6">
+    <div className="bg-softgreen h-auto font-sans font-light p-2 flex flex-col items-start mt-14">
       <div className="flex items-center mb-2">
         <IoLocationOutline className="mr-2 text-xl text-notblack" />
         <div>
