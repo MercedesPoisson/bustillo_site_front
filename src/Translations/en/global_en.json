@@ -7,6 +7,16 @@
         "Gallery": "Gallery",
         "Booking": "Booking",
         "Contact": "Contact"
-    }
+    },
+    "description": {
+        "welcomeTo": "Welcome to",
+        "name": "Bustillo 7500",
+        "location": "located in San Carlos de Bariloche.",
+        "immerse": "Immerse yourself in the heart of the stunning Patagonian nature.",
+        "apartments": "Our apartments have a quiet and familiar atmosphere accompanied by spectacular views of Lake Nahuel Huapi.",
+        "enjoy": "Enjoy the comfort of a fully equipped kitchen, TV, and quality linens for a worry-free stay.",
+        "strategicallyLocated": "Strategically located just 8 minutes by car from the city center, 10 minutes from the majestic ski slopes of Cerro Catedral, and 25 minutes from the airport, our complex offers you the perfect combination of accessibility and tranquility.",
+        "parking": "We offer you the convenience of private and free parking, so that your stay is even more pleasant and hassle-free."
+      }
 
 }

@@ -1,38 +1,13 @@
 import React from 'react';
+import CarouselPic from '../components/carousel';
+import Description from '../components/description';
 
 function Inicio() {
     return(
-        <div className='bg-softgreen'>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
-            <h1>Inicio</h1>
+        <div className='mt-4 '>
+            <CarouselPic />
+            <Description />          
+           
             
         </div>
     )
