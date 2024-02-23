@@ -39,7 +39,7 @@ import d7f2 from "../util/departamentos/dpto7-2.jpg";
 import d7f3 from "../util/departamentos/dpto7-3.jpg";
 import d7f4 from "../util/departamentos/dpto7-4.jpg";
 import d7f5 from "../util/departamentos/dpto7-5.jpg";
-import d7f6 from "../util/departamentos/dpto7-1.jpg";
+import d7f6 from "../util/departamentos/dpto7-6.jpg";
 
 
 const CardDptos = () => {
@@ -53,9 +53,9 @@ const CardDptos = () => {
 
   const imgDptos = [
     [d1f1, d1f2, d1f3, d1f4, d1f5, d1f6],
-    [d2f1, d2f2, d2f3, d2f4, d2f5, d2f6],
+    [d2f5, d2f2, d2f3, d2f4, d2f1, d2f6],
     [d3f1, d3f2, d3f3, d3f4, d3f5, d3f6],
-    [d4f1, d4f2, d4f3, d4f4, d4f5, d4f6],
+    [d4f6, d4f2, d4f3, d4f4, d4f5, d4f1],
     [d5f1, d5f2, d5f3, d5f4, d5f5, d5f6],
     [d7f1, d7f2, d7f3, d7f4, d7f5, d7f6],
   ];
