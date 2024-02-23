@@ -32,6 +32,56 @@
         "free": "Gratis",
         "smart": "Smart",
         "tv": "TV"
+      },
+      "departamentos": {
+        "departamento2": {
+        "titulo": "Lago Mascardi",
+        "habitaciones": "Cantidad de Habitaciones : 1",
+        "capacidad": "Ocupación Máxima: 4",
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+        
+    },
+    "departamento3": {
+        "titulo": "Lago Guillelmo",
+        "habitaciones": "Cantidad de Habitaciones : 1",
+        "capacidad": "Ocupación Máxima: 4",
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+    },
+    "departamento4": {
+        "titulo": "Lago Gutierrez",
+        "habitaciones": "Cantidad de Habitaciones : 1",
+        "capacidad": "Ocupación Máxima: 4",
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+    },
+    "departamento5": {
+        "titulo": "Lago Moreno",
+        "habitaciones": "Cantidad de Habitaciones : 1",
+        "capacidad": "Ocupación Máxima: 4",
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+    },
+    "departamento7": {
+        "titulo": "Lago Steffen",
+        "habitaciones": "Cantidad de Habitaciones : 1",
+        "capacidad": "Ocupación Máxima: 4",
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima",
+        "acceso": "Acceso por escalera"
+        
+    },
+    "departamento1": {
+        "titulo": "Lago Nahuel Nahuapi",
+        "habitaciones": "Cantidad de Habitaciones : 3",
+        "capacidad": "Ocupación Máxima: 8",
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción", "Entrada Privada", "Parrilla"],
+        "estadia": "Estadía minima: 2 noches",
+        "acceso": "Acceso por escalera"
+    }
       }
+      
+
 
 }

@@ -32,7 +32,56 @@
         "free": "WIFI",
         "smart": "Smart",
         "tv": "TV"
+      },
+      "departamentos": {
+        "departamento2": {
+        "titulo": "Lake Mascardi",
+        "habitaciones": "Number of Bedrooms: 1",
+        "capacidad": "Max Occupancy: 4",
+        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
+        "estadia": "No minimum stay"
+        
+    },
+    "departamento3": {
+        "titulo": "Lake Guillelmo",
+        "habitaciones": "Number of Bedrooms: 1",
+        "capacidad": "Max Occupancy: 4",
+        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
+        "estadia": "No minimum stay"
+    },
+    "departamento4": {
+        "titulo": "Lake Gutierrez",
+        "habitaciones": "Number of Bedrooms: 1",
+        "capacidad": "Max Occupancy: 4",
+        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
+        "estadia": "No minimum stay"
+    },
+    "departamento5": {
+        "titulo": "Lake Moreno",
+        "habitaciones": "Number of Bedrooms: 1",
+        "capacidad": "Max Occupancy: 4",
+        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
+        "estadia": "No minimum stay"
+    },
+    "departamento7": {
+        "titulo": "Lake Steffen",
+        "habitaciones": "Number of Bedrooms: 1",
+        "capacidad": "Max Occupancy: 4",
+        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating"],
+        "estadia": "No minimum stay",
+        "acceso": "Access by Stairs"
+        
+    },
+    "departamento1": {
+        "titulo": "Lake Nahuel Nahuapi",
+        "habitaciones": "Number of Bedrooms: 3",
+        "capacidad": "Max Occupancy: 8",
+        "detalle": ["Kitchen", "Microwave", "Private Bathroom", "Towels", "Bed Linens", "Heating", "Private Entrance", "Grill"],
+        "estadia": "2 nights",
+        "acceso": "Access by stairs"
+    }
       }
+      
 
 
 }

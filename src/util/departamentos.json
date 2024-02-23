@@ -1,0 +1,49 @@
+{
+    "departamento2": {
+        "titulo": "Lago Mascardi",
+        "habitaciones": 1,
+        "capacidad": 4,
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+        
+    },
+    "departamento3": {
+        "titulo": "Lago Guillelmo",
+        "habitaciones": 1,
+        "capacidad": 4,
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+    },
+    "departamento4": {
+        "titulo": "Lago Gutierrez",
+        "habitaciones": 1,
+        "capacidad": 4,
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+    },
+    "departamento5": {
+        "titulo": "Lago Moreno",
+        "habitaciones": 1,
+        "capacidad": 4,
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima"
+    },
+    "departamento7": {
+        "titulo": "Lago Steffen",
+        "habitaciones": 1,
+        "capacidad": 4,
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción"],
+        "estadia": "Sin estadía minima",
+        "acceso": "por escalera"
+        
+    },
+    "departamento1": {
+        "titulo": "Lago Nahuel Nahuapi",
+        "habitaciones": 1,
+        "capacidad": 4,
+        "detalle": ["Cocina", "Microondas", "Baño Privado", "Toallas", "Ropa de Cama", "Calefacción", "Entrada Privada", "Parrilla"],
+        "estadia": "2 noches",
+        "acceso": "por escalera"
+    }
+
+}
