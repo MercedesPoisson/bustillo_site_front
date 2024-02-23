@@ -17,6 +17,21 @@
         "enjoy": "Disfrutá de la comodidad de una cocina totalmente equipada, televisión y ropa blanca de calidad para una estadía sin preocupaciones.",
         "strategicallyLocated": "Ubicado estratégicamente a solo 8 minutos en auto del centro de la ciudad, a 10 minutos de las majestuosas pistas de esquí del Cerro Catedral y a 25 minutos del aeropuerto, nuestro complejo te brinda la combinaciión perfecta de accesibilidad y tranquilidad.",
         "parking": "Te ofrecemos la conveniencia de un estacionamiento privado y gratuito, para que tu estadiía sea aún más placentera y sin complicaciones."
+      },
+      "dptosDesc": {
+        "description": "Todos nuestros departamentos cuentan con los siguientes servicios:",
+        "view1": "Vista a las",
+        "mountain": "Montañas",
+        "view2": "Vista al",
+        "lake": "Lago",
+        "view3": "Vista al",
+        "garden": "Jardín",
+        "parking": "Estacionamiento",
+        "freep": "Gratuito",
+        "wifi": "WIFI",
+        "free": "Gratis",
+        "smart": "Smart",
+        "tv": "TV"
       }
 
 }
