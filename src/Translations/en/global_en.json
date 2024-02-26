@@ -106,9 +106,11 @@
         "detalle": "Amenities: Kitchen, Microwave, Private Bathroom, Towels, Bed Linens, Heating, Private Entrance, Grill",
         "estadia": "2 nights min stay",
         "acceso": "Access by stairs"
+    } 
+      },
+      "galeria": {
+        "titulo": "Gallery",
+        "exterior": "Outdoor"
     }
-      }
-      
-
 
 }

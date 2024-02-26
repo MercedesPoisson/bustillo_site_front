@@ -108,8 +108,11 @@
         "estadia": "Estadía minima: 2 noches",
         "acceso": "Acceso por escalera"
     }
+    
+      },
+      "galeria": {
+        "titulo": "Galeria",
+        "exterior": "Exterior"
       }
-      
-
 
 }
