@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="flex items-center mb-2">
         <IoLocationOutline className="mr-2 text-xl text-notblack" />
         <div>
-          <h1 className="text-xs text-notblack">
+          <h1 className="text-xs text-notwhite">
             Avenida Ezequiel Bustillo 7500, San Carlos de Bariloche, Patagonia -
             Argentina
           </h1>

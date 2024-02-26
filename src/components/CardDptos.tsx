@@ -70,7 +70,7 @@ const CardDptos = () => {
   ];
 
   return (
-    <div className="w-full mx-auto font-sans mt-14 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div className="w-full mx-auto font-spectral mt-14 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {departamentos.map((departamento, index) => (
         <div key={index} style={{ width: "100%" }}>
           <Carousel

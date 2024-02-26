@@ -6,7 +6,7 @@ import foto9 from "../util/bus9.jpg";
 
 const GrillaInicio = () => {
   return (
-    <div className="w-full max-w-4xl mx-4 sm:mx-auto font-sans grid grid-cols-4 gap-4 mt-14">
+    <div className="w-full max-w-4xl mx-4 sm:mx-auto font-spectral grid grid-cols-4 gap-4 mt-14">
       <div className="aspect-w-1 aspect-h-1 bg-gray-300">
         <img
           src={foto6}

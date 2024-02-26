@@ -13,10 +13,12 @@ module.exports = {
         notwhite: "#E8F1F2",
         softgreen: "#A7C4B5",
         firstblue: "#006494",
-        secondblue: "#247BA0"
+        secondblue: "#247BA0",
+        whatsapp: "#25D366"
       },
       fontFamily: {
         sans: ['Poppins', 'sans-serif'],
+        spectral: ['Spectral', 'sans-Serif']
       },
     },
   },

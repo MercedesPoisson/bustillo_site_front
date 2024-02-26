@@ -11,7 +11,7 @@ const DptosDesc = () => {
   const [t, i18n] = useTranslation("global");
 
   return (
-    <div className="w-full max-w-4xl mx-4 sm:mx-auto font-sans mt-14">
+    <div className="w-full max-w-4xl mx-4 sm:mx-auto font-spectral mt-14">
       <p className="text-l font-normal text-notblack text-center items-center">
        {t("dptosDesc.description")}
       </p>

@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 const Description = () => {
     const [t, i18n] = useTranslation("global")
     return(
-        <div className="w-full max-w-4xl mx-4 sm:mx-auto font-sans mt-14">
+        <div className="w-full max-w-4xl mx-4 sm:mx-auto font-spectral mt-14">
        <div>
                 <span className="text-xl font-semibold text-notblack">{t("description.welcomeTo")}</span>
                 <span className="text-2xl font-semibold text-firstblue"> {t("description.name")}</span>
