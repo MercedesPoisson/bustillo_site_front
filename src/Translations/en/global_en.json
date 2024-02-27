@@ -110,7 +110,15 @@
       },
       "galeria": {
         "titulo": "Gallery",
-        "exterior": "Outdoor"
+        "exterior": "Outdoor",
+        "compartido": "SUM",
+        "Departamento1": "Apartment Nahuel Huapi",
+        "Departamento2": "Apartment Lago Mascardi",
+        "Departamento3": "Apartment Lago Guillelmo",
+        "Departamento4": "Apartment Lago Gutierrez",
+        "Departamento5": "Apartment Lago Moreno",
+        "Departamento7": "Apartment Lago Steffen"
+
     }
 
 }

@@ -112,7 +112,14 @@
       },
       "galeria": {
         "titulo": "Galeria",
-        "exterior": "Exterior"
+        "exterior": "Exterior",
+        "compartido": "Áreas compartidas",
+        "Departamento1": "Departamento Nahuel Huapi",
+        "Departamento2": "Departamento Lago Mascardi",
+        "Departamento3": "Departamento Lago Guillelmo",
+        "Departamento4": "Departamento Lago Gutierrez",
+        "Departamento5": "Departamento Lago Moreno",
+        "Departamento7": "Departamento Lago Steffen"
       }
 
 }
