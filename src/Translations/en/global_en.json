@@ -126,6 +126,10 @@
     },
     "clima": {
       "actualizacion": "Last Update"
+    },
+    "location": {
+      "titulo": "Where are we?"
     }
+
 
 }

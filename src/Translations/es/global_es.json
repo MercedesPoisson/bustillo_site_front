@@ -127,6 +127,9 @@
       },
       "clima": {
         "actualizacion": "Actualizado"
+      },
+      "location": {
+        "titulo": "¿Dónde estamos?"
       }
 
 }

@@ -24,7 +24,7 @@ interface WeatherData {
 
 function Weather() {
   const [weatherData, setWeatherData] = useState<WeatherData | null>(null);
-  const [t, i18m] = useTranslation("global")
+  const {t} = useTranslation("global")
 
   useEffect(() => {
     async function fetchWeather() {

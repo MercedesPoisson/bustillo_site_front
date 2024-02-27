@@ -2,7 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 
 const Description = () => {
-    const [t, i18n] = useTranslation("global")
+    const {t} = useTranslation("global")
     return(
         <div className="w-full max-w-4xl mx-4 sm:mx-auto font-spectral mt-14">
        <div>
