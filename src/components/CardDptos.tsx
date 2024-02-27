@@ -41,9 +41,8 @@ import d7f4 from "../util/departamentos/dpto7-4.jpg";
 import d7f5 from "../util/departamentos/dpto7-5.jpg";
 import d7f6 from "../util/departamentos/dpto7-6.jpg";
 
-
 const CardDptos = () => {
-  const [t, i18n] = useTranslation("global");
+  const {t} = useTranslation("global");
   const [currentIndex1, setCurrentIndex1] = useState(0);
   const [currentIndex2, setCurrentIndex2] = useState(0);
   const [currentIndex3, setCurrentIndex3] = useState(0);
@@ -93,19 +92,19 @@ const CardDptos = () => {
                 : currentIndex7
             }
             onChange={(newIndex) => {
-                if (index === 0) {
-                    setCurrentIndex1(newIndex);
-                  } else if (index === 1) {
-                    setCurrentIndex2(newIndex);
-                  } else if (index === 2) {
-                    setCurrentIndex3(newIndex);
-                  } else if (index === 3) {
-                    setCurrentIndex4(newIndex);
-                } else if (index === 4) {
-                    setCurrentIndex5(newIndex);
-                  } else if (index === 5) {
-                    setCurrentIndex7(newIndex);
-                  }
+              if (index === 0) {
+                setCurrentIndex1(newIndex);
+              } else if (index === 1) {
+                setCurrentIndex2(newIndex);
+              } else if (index === 2) {
+                setCurrentIndex3(newIndex);
+              } else if (index === 3) {
+                setCurrentIndex4(newIndex);
+              } else if (index === 4) {
+                setCurrentIndex5(newIndex);
+              } else if (index === 5) {
+                setCurrentIndex7(newIndex);
+              }
             }}
           >
             {imgDptos[index].map((imagen, imgIndex) => (
@@ -151,17 +150,16 @@ const CardDptos = () => {
                 {t(`departamentos.${departamento}.capacidad`)}
               </span>
             </div>
-            
+
             <div>
-            <p className="text-sm font-normal text-notblack mt-2">
-              {t(`departamentos.${departamento}.titdetalle`)}
-            </p>
-                <p className="text-sm font-semibold text-firstblue mb-2">
-              {t(`departamentos.${departamento}.detalle`)}
-            </p>
+              <p className="text-sm font-normal text-notblack mt-2">
+                {t(`departamentos.${departamento}.titdetalle`)}
+              </p>
+              <p className="text-sm font-semibold text-firstblue mb-2">
+                {t(`departamentos.${departamento}.detalle`)}
+              </p>
             </div>
 
-            
             <p className="text-sm font-normal mt-2 text-notblack">
               {t(`departamentos.${departamento}.estadia`)}
             </p>

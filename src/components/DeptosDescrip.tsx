@@ -8,12 +8,12 @@ import { IoWifi } from "react-icons/io5";
 import { PiTelevision } from "react-icons/pi";
 
 const DptosDesc = () => {
-  const [t, i18n] = useTranslation("global");
+  const {t} = useTranslation("global");
 
   return (
     <div className="w-full max-w-4xl mx-4 sm:mx-auto font-spectral mt-14">
       <p className="text-l font-normal text-notblack text-center items-center">
-       {t("dptosDesc.description")}
+        {t("dptosDesc.description")}
       </p>
       <div className="flex justify-center items-center mt-4 gap-8">
         <div className="flex flex-col items-center">
@@ -43,7 +43,6 @@ const DptosDesc = () => {
           <IoWifi className="text-firstblue font-bold text-4xl" />
           <p className="text-xs text-center">{t("dptosDesc.wifi")}</p>
           <span className="text-xs text-center">{t("dptosDesc.free")}</span>
-
         </div>
 
         <div className="flex flex-col items-center ml-4">

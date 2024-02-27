@@ -3,23 +3,28 @@ import { IoLogoWhatsapp } from "react-icons/io5";
 
 const WhatsappWidget = () => {
   const openWhatsApp = (phoneNumber: string, message: string) => {
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-      navigator.userAgent
-    );
+    const isMobile =
+      /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent
+      );
 
     let url;
     if (isMobile) {
       url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     } else {
-      url = `https://web.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
+      url = `https://web.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(
+        message
+      )}`;
     }
 
     window.open(url, "_blank");
   };
 
   const handleWhatsAppClick = () => {
-    const phoneNumber = "1158335017"; 
-    const message = "Hola, 👋\nGracias por comunicarte con nosotros.\nDéjanos tu consulta y a la brevedad te estaremos contestando 😊.";    openWhatsApp(phoneNumber, message);
+    const phoneNumber = "1158335017";
+    const message =
+      "Hola, 👋\nGracias por comunicarte con nosotros.\nDéjanos tu consulta y a la brevedad te estaremos contestando 😊.";
+    openWhatsApp(phoneNumber, message);
   };
 
   return (

@@ -6,20 +6,6 @@ import { Outlet } from "react-router-dom";
 import WhatsappWidget from "../components/WhatsappWidget";
 
 const Home = () => {
-  // const [isLargeScreen, setIsLargeScreen] = useState(true);
-  // useEffect(() => {
-  //     const handleResize = () => {
-  //         setIsLargeScreen(window.innerWidth >= 600);
-  //     };
-
-  //     handleResize();
-  //     window.addEventListener("resize", handleResize);
-
-  //     return () => {
-  //         window.removeEventListener("resize", handleResize);
-  //     };
-  // }, []);
-
   return (
     <div className="flex flex-col flex-grow-1 flex-shrink-0">
       <NavBar />
