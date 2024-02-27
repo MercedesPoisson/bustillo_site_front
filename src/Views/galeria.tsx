@@ -75,7 +75,8 @@ function Galeria() {
       <Carousel className="" showThumbs={true}>
         {exteriorImages.map((image, index) => (
           <div key={index}>
-            <img 
+            <img
+            className="carousel-image object-cover"
             src={image} alt={`Exterior ${index}`} />
             {/* Agrega una leyenda si lo deseas */}
           </div>
@@ -91,7 +92,9 @@ function Galeria() {
           <Carousel showThumbs={true}>
             {imagenes.map((imagen: any, index: number) => (
               <div key={index}>
-                <img src={imagen} alt={`${departamento} ${index}`} />
+                <img
+                className="carousel-image object-cover " 
+                src={imagen} alt={`${departamento} ${index}`} />
                 {/* Agrega una leyenda si lo deseas */}
               </div>
             ))}
