@@ -119,6 +119,13 @@
         "Departamento5": "Apartment Lago Moreno",
         "Departamento7": "Apartment Lago Steffen"
 
+    },
+    "bariloche": {
+      "titulo": "Important Info",
+      "pronostico": "Weather ForeCast"
+    },
+    "clima": {
+      "actualizacion": "Last Update"
     }
 
 }

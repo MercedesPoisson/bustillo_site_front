@@ -120,6 +120,13 @@
         "Departamento4": "Departamento Lago Gutierrez",
         "Departamento5": "Departamento Lago Moreno",
         "Departamento7": "Departamento Lago Steffen"
+      },
+      "bariloche": {
+        "titulo": "Datos Utiles",
+        "pronostico": "Pronostico del Tiempo"
+      },
+      "clima": {
+        "actualizacion": "Actualizado"
       }
 
 }
