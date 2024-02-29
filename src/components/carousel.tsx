@@ -3,12 +3,15 @@ import foto1 from "../util/bus1.jpg";
 import foto2 from "../util/bus2.jpg";
 import foto3 from "../util/bus3.jpg";
 import foto4 from "../util/bus4.jpg";
+import foto5 from "../util/bus9.jpg";
+
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const CarouselPic = () => {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [currentIndex, setCurrentIndex] = useState(0);
-  const images = [foto1, foto2, foto3, foto4];
+  const images = [foto5, foto1, foto2, foto3, foto4];
 
   useEffect(() => {
     const intervalId = setInterval(() => {
@@ -26,7 +29,7 @@ const CarouselPic = () => {
         showThumbs={false}
         infiniteLoop={true}
         autoPlay={true}
-        //currentIndex={currentIndex} // Pass the currentIndex prop
+        //currentIndex={currentIndex}
         onChange={(newIndex) => setCurrentIndex(newIndex)}
       >
         {images.map((image, index) => (
@@ -43,7 +46,6 @@ const CarouselPic = () => {
               className="object-cover h-full w-full"
               src={image}
               alt={`Bariloche ${index + 1}`}
-              //style={{ borderRadius: '8px' }}
             />
           </div>
         ))}
